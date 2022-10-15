@@ -59,8 +59,7 @@ input{
   
   input
   {
-    align-self: right;
-    width: fixed;
+    text-align: right;
 
   }
   
